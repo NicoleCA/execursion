@@ -1,0 +1,36 @@
+html{
+ background-color:black;
+ text-align:center;
+}
+
+h1{
+ font-family:Verdana;
+ font-weight:Normal;
+ font-size:50px;
+ color:white;
+ text-align:center;
+}
+
+.interest{
+ font-family:Verdana;
+ font-size:21px;
+ color:Gray;
+}
+
+.travelg{
+ font-family:Verdana;
+ font-weight:300;
+ font-size:42px;
+}
+
+a{
+ color:Aquamarine;
+ font-size:16px;
+}
+
+.Excursion{
+ text-align:right;
+ color:Gray;
+}
+
+
